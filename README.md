@@ -4,4 +4,7 @@
 **Course Homepage**: https://sites.google.com/udacity.com/suse-cloud-native-foundations/home
 
 **Instructor**: https://github.com/kgamanji
+<<<<<<< HEAD
 ** Student**: Sumit Kumar
+=======
+>>>>>>> 8ae903d66ca59644ec76ebc818502a3134034eeb
